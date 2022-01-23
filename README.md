@@ -1,5 +1,5 @@
 # odin-recipes
-This is the first project in The Odin Project. 
+This is my first project created with The Odin Project. I am very excited to start this journey and hope to become a full stack developer or business owner in my spare time. 
 
 Learning the basics of HTML and how to build websites from scratch. 
 
